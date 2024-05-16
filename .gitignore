@@ -4,16 +4,5 @@ node_modules/
 # Ignore package lock file
 package-lock.json
 
-# Ignore Vite build output directory
-dist/
 
-# Ignore environment configuration files
-.env
 
-# Ignore editor configurations
-.vscode/
-.idea/
-
-# Ignore compiled or generated files
-*.js
-*.css
